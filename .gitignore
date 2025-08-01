@@ -1,0 +1,28 @@
+# Python
+_pycache_/
+*.py[cod]
+*.egg-info/
+db.sqlite3
+.env
+myenv/
+
+# Django static/media
+staticfiles/
+media/
+
+# Node (React)
+client/node_modules/
+client/dist/
+client/.vite
+client/.env
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db

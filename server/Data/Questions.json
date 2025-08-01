@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Reverse String",
+    "description": "Write a function to reverse a string.",
+    "starter_code": "def reverse_string(s):\n    pass"
+  },
+  {
+    "id": 2,
+    "title": "Two Sum",
+    "description": "Find two numbers that add up to a target.",
+    "starter_code": "def two_sum(nums, target):\n    pass"
+  }
+]
